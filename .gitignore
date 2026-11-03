@@ -4,3 +4,8 @@
 !.dev.vars.example
 .env*
 !.env.example
+
+# misc
+node_modules
+.DS_Store
+index.merged.html
